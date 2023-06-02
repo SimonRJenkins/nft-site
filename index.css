@@ -33,3 +33,13 @@ section {
 .main-image {
     width: 100%;
 }
+
+p a {
+    color: #ef5839;
+}
+
+p a:hover,
+p a:active {
+    color: #d4b44c;
+    text-decoration-style: dotted;
+}
