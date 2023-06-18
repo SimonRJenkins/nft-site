@@ -22,7 +22,7 @@ h2 {
 }
 
 h3 {
-    color: #d0aaff;
+    color: #7D5614;
     font-size: 20px;
 }
 
@@ -52,27 +52,27 @@ a:active {
 }
 
 .btn-dark {
-    background-color: #5f29a3;
+    background-color: #b97f18;
     color: whitesmoke;
 }
 
 .btn:hover,
 .btn:active {
-    background-color: #f3e885;
-    color: #2b283a;
+    background-color: #D19921;
+    color: #000000;
 }
 
 .btn-mid {
-    background-color: #f0e0ff;
+    background-color: #58442C;
 }
 
 .btn-mid,
 .btn-light {
-    color: #5f29a3;
+    color: #b97f18;
 }
 
 .btn-light {
-    background-color: whitesmoke;
+    background-color: #F4F4F4;
 }
 
 /* LAYOUT */
@@ -85,7 +85,7 @@ footer {
 
 header,
 .section-two {
-    background-color: #5f29a3;
+    background-color: #b97f18;
 }
 
 .section-two {
@@ -113,5 +113,5 @@ header,
 
 footer {
     text-align: center;
-    color: #5f29ae;
+    color: #b97f18;
 }
